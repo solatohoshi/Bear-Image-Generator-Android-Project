@@ -1,35 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-
-    <style name="Base.Theme.FinalAndroidGroupProject" parent="Theme.Material3.DayNight.NoActionBar">
-        <item name="windowActionBar">false</item>
-        <item name="windowNoTitle">true</item>
-        <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/my_primary</item>
-        <!-- Secondary brand color. -->
-        <item name="colorSecondary">@color/my_secondary</item>
-        <!-- Status bar color. -->
-        <item name="android:statusBarColor">@color/my_statusbar</item>
-        <!-- text color -->
-        <item name="android:textColor">@color/my_text</item>
-
+    <style name="Base.Theme.BearImageGeneratorApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-<!--        &lt;!&ndash; Primary brand color &ndash;&gt;-->
-<!--        <item name="colorPrimary">@color/flight_tracker_primary</item>-->
-
-<!--        &lt;!&ndash; Secondary brand color &ndash;&gt;-->
-<!--        <item name="colorSecondary">@color/flight_tracker_secondary</item>-->
-
-<!--        &lt;!&ndash; Status brand color &ndash;&gt;-->
-<!--        <item name="android:statusBarColor">@color/flight_tracker_statusbar</item>-->
-
-<!--        &lt;!&ndash; Text color &ndash;&gt;-->
-<!--        <item name="android:textColor">@color/flight_tracker_text</item>-->
-
-<!--        <item name="windowActionBar">false</item>-->
-
-<!--        <item name="windowNoTitle">true</item>-->
-    
-    <style name="Theme.FinalAndroidGroupProject" parent="Base.Theme.FinalAndroidGroupProject" />
+    <style name="Theme.BearImageGeneratorApp" parent="Base.Theme.BearImageGeneratorApp" />
 </resources>
