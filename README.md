@@ -1,8 +1,7 @@
-# Final-Android-Group-Project
-可在.gitignore文件里添加一些无需push到github里的文件名，避免一些conflict  
-*master中的.gitignore已经配置了
+# Bear Image Generator
 
-参考如下
+
+git ignore files
 ## .idea/.gitignore
 /shelf/  
 /workspace.xml  
