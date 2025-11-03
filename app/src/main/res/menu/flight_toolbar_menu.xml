@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+     <item
+         android:id="@+id/main_page"
+         android:icon="@drawable/home"
+         android:title="Home"
+         app:showAsAction="always" />
+
+     <item
+         android:id="@+id/flight_bear"
+         android:icon="@drawable/bear"
+         android:title="Bear"
+         app:showAsAction="always" />
+
+     <item
+         android:id="@+id/flight_quiz"
+         android:icon="@drawable/quiz"
+         android:title="Quiz"
+         app:showAsAction="always" />
+
+     <item
+         android:id="@+id/flight_currency"
+         android:icon="@drawable/currency"
+         android:title="Currency"
+         app:showAsAction="always" />
+
+     <item
+         android:id="@+id/flight_help"
+         android:icon="@drawable/flight_help"
+         android:title="@string/flight_guide"
+         app:showAsAction="never" />
+
+</menu>

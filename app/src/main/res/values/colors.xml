@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="flight_tracker_primary">#B3CAD8</color>
+    <color name="flight_tracker_secondary">#E16B8C</color>
+    <color name="flight_tracker_statusbar">#F4E8C0</color>
+    <color name="flight_tracker_text">#53565C</color>
+
+    <color name="flight_tracker_dark_primary">#082032</color>
+    <color name="flight_tracker_dark_secondary">#2C394B</color>
+    <color name="flight_tracker_dark_statusbar">#334756</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="my_primary">#56C5F7</color>
+    <color name="my_secondary">#4DD0E1</color>
+    <color name="my_statusbar">#298DDC</color>
+    <color name="red">#FC0404</color>
+    <color name="my_text">#212121</color>
+    <color name="blue">#E4F1FB</color>
+    <color name="green">#E9F8D9</color>
+    <color name="pink">#F3CEFA</color>
+    <color name="bear">#FFC26F</color>
+
+</resources>

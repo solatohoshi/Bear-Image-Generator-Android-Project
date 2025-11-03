@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FinalAndroidGroupProject" parent="Theme.MaterialComponents.DayNight">
+        <!-- Dark Primary color -->
+        <item name="colorPrimary">@color/flight_tracker_dark_primary</item>
+
+        <!-- Dark Secondary color -->
+        <item name="colorSecondary">@color/flight_tracker_dark_secondary</item>
+
+        <!-- Dark Status bar color -->
+        <item name="android:statusBarColor">@color/flight_tracker_dark_statusbar</item>
+    </style>
+</resources>

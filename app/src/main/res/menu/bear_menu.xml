@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:id="@+id/item_trivia"
+        android:icon="@drawable/quiz"
+        android:title="@string/project3"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/item_bear"
+        android:icon="@drawable/melting_bear"
+        android:title="@string/project4"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/item_flight"
+        android:icon="@drawable/flight_search"
+        android:title="@string/project1"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/item_currency"
+        android:icon="@drawable/currency"
+        android:title="Currency"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/item_help"
+        android:icon="@drawable/help"
+        android:title="@string/help"
+        app:showAsAction="never" />
+</menu>
